@@ -1,0 +1,76 @@
+{
+  "EnvironmentalGroups": [
+    {
+      "activities": [
+        {
+          "id": "adee5e69-92a1-427d-93fb-6b3dd6b3070c",
+          "activityname": "BLM 1",
+          "datestarted": "2023-01-21T12:39:00.386Z",
+          "dateended": "2023-03-04T12:39:00.000Z",
+          "actdetails": "Heyo",
+          "result": "Pending"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "0": {
+        "id": 1674296446163,
+        "activityname": "Kevin Gwapo",
+        "datestarted": "2023-01-01T10:06:00.000Z",
+        "dateended": "2023-03-31T10:06:00.000Z",
+        "actdetails": "JOKE LANG WAG KANG UMASA",
+        "result": "Success"
+      },
+      "activities": [
+        {
+          "id": "bf6ea381-787f-4826-8b27-90bd3f14996b",
+          "activityname": "Maeko Gwapo",
+          "datestarted": "2023-01-21T10:41:17.846Z",
+          "dateended": "2023-02-25T10:41:00.000Z",
+          "actdetails": "joke lang",
+          "result": "Pending"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "activities": [
+        {
+          "id": "8a81d7cc-9374-4eb2-808a-b16277d9fe67",
+          "activityname": "Northwestern TEST",
+          "datestarted": "2023-01-02T12:33:00.000Z",
+          "dateended": "2023-02-01T12:33:00.000Z",
+          "actdetails": "NorthWestern Charity",
+          "result": "Success"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "id": 4,
+      "groupname": "Test Group",
+      "email": "testgroup@gmail.com",
+      "grouptype": "Land Preservation",
+      "description": "Yes.",
+      "activities": []
+    },
+    {
+      "id": 5,
+      "groupname": "weqeqwe",
+      "email": "eastwest@gmail.com",
+      "grouptype": "Wildlife Preservation",
+      "description": "qweqwe",
+      "activities": [
+        {
+          "id": "96d98eaf-b7b6-43bd-a9e4-fc8dfa1fea8a",
+          "activityname": "Wewoooo",
+          "datestarted": "2023-01-05T12:41:00.000Z",
+          "dateended": "2023-02-09T12:41:00.000Z",
+          "actdetails": "Weqwe test",
+          "result": "Success"
+        }
+      ]
+    }
+  ]
+}
